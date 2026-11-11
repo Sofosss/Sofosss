@@ -1,4 +1,4 @@
-PhD Student at the [Computer Engineering and Informatics Department (CEID)](https://www.ceid.upatras.gr/en/home/), University of Patras, under the supervision of Associate Professor [Panagiotis Hadjidoukas](https://www.ceid.upatras.gr/webpages/faculty/phadjido/) at the HPCLab. My research focuses on high-performance computing, with an emphasis on high-level asynchronous many-task (AMT) programming models and out-of-core parallel processing methods for scalable machine learning.
+PhD Student at the [Computer Engineering and Informatics Department (CEID)](https://www.ceid.upatras.gr/en/home/), University of Patras, Greece, under the supervision of Associate Professor [Panagiotis Hadjidoukas](https://www.ceid.upatras.gr/webpages/faculty/phadjido/) at the Laboratory of High-Performance Computing (HPCLab). My research focuses on high-performance computing, with an emphasis on high-level asynchronous many-task (AMT) programming models and out-of-core parallel processing methods for scalable machine learning.
 
 ### Research Software
 - [**torcjulia**](https://github.com/CEID-HPCLAB/torcjulia): An MPI-based Runtime System for Asynchronous Task Parallelism in Julia.
